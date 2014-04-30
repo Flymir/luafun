@@ -1,0 +1,14 @@
+--- This file is part of Flymir LuaDist project
+
+name = "luafun"
+version = "scm"
+
+desc = "A high-performance functional programming library"
+author = "Konstantin Osipov"
+license = "MIT/X11"
+url = "https://github.com/rtsisyk/luafun"
+maintainer = "Tai Chi Minh Ralph Eastwood"
+
+depends = {
+	"lua >= 5.1"
+}
